@@ -1,2 +1,5 @@
 # hello-world
-Tutorial repository
+
+Hi, nice to meet you.
+
+My name is Andy Luu!
